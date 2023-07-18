@@ -7,5 +7,5 @@ At first you upload a pdf file clicking on the folder icon and then you can star
 
 The libraries you need to install to run the script are:
 - gradio (2.9b50)
-- reqeusts (2.31.0)
+- requests (2.31.0)
 
